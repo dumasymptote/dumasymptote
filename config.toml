@@ -1,6 +1,6 @@
 # The URL the site will be built for
-base_url =  "http://127.0.0.1:1111"#"https://dumasymptote.com"
-
+base_url =  "https://dumasymptote.com"
+#base_url =  "http://127.0.0.1:1111" #used for running locally as test
 #theme info
 theme = "terminimal"
 title = "Dumasymptote"
